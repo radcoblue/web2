@@ -1,0 +1,26 @@
+body{
+
+  background: rgb(145, 206, 206);
+}
+
+.encabezado{
+
+    background: rgb(165, 127, 55);
+    text-align: center;
+}
+
+
+main{
+
+    background: green;
+}
+
+aside{
+
+    background: pink;
+}
+
+footer{
+
+    background: rgb(210, 20, 220);
+}
